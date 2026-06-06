@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Get-ChildItem -Path C:\\\\Users\\\\mu_bi\\\\IdeaProjects\\\\carboneye-GS -Recurse -Force)",
+      "Bash(Select-Object -First 30)"
+    ]
+  }
+}
